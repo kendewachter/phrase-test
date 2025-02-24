@@ -3,7 +3,7 @@
   <file source-language="en-US" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="confirm-company.confirm-area-account" datatype="html">
-        <source> file in company folder </source>
+        <source> English file in company folder </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/confirm-account/confirm-account.component.html</context>
           <context context-type="linenumber">4,6</context>
